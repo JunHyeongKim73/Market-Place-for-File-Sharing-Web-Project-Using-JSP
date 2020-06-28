@@ -62,4 +62,50 @@ User Bill
 [user bill](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/userbill.jsp)
 
 # Provider
+Provider Sign Up
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937453-a674ba00-b93e-11ea-998c-98621223b9d2.png>
+</div>
 
+[provider join](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/providerjoin.jsp)
+
+Item Add
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937479-e340b100-b93e-11ea-8e4a-4bcd00fdb2c7.png>
+</div>
+
+[item add](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/itemAdd.jsp)
+
+My Items
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937741-6fec6e80-b941-11ea-894e-1a36c18cb3e6.png>
+</div>
+
+[see my items](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/myitem.jsp)
+
+Details of My Item
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937768-a629ee00-b941-11ea-87f4-52d69e811b7f.png>
+</div>
+
+[item detail](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/itemDetail.jsp)
+
+Provider Bill
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937805-dec9c780-b941-11ea-9631-d3f49e4e91ff.png>
+</div>
+
+[provider bill](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/providerbill.jsp)
+
+Provider Profit and Loss Statistics
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937809-e9845c80-b941-11ea-9387-f856d1ac9133.png>
+</div>
+
+[provider statistics](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/providerStatistics.jsp)
