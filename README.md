@@ -109,3 +109,44 @@ Provider Profit and Loss Statistics
 </div>
 
 [provider statistics](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/providerStatistics.jsp)
+
+# Administrator
+Manage Users
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937968-c064cb80-b943-11ea-8aec-8f8604caf682.png>
+</div>
+
+[manage users](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/manageUser.jsp)
+
+Manage Providers
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937974-c9ee3380-b943-11ea-981b-0301e7f63047.png>
+</div>
+
+[manage providers](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/manageProvider.jsp)
+
+Manage Items
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937977-d1add800-b943-11ea-9953-8b84150425ed.png>
+</div>
+
+[manage items](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/item.jsp)
+
+Manage Bills
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937981-da9ea980-b943-11ea-98f7-76aad63e1792.png>
+</div>
+
+[manage bills](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/manageBill.jsp)
+
+Service Profit and Loss
+-----------
+<div>
+<img width="1000" src=https://user-images.githubusercontent.com/56298375/85937985-e2f6e480-b943-11ea-90db-b105433fba51.png>
+</div>
+
+[sevice profit & loss](https://github.com/JunHyeongKim73/Market-Place-for-File-Sharing-Web-Project-Using-JSP/blob/master/WebContent/statistic.jsp)
